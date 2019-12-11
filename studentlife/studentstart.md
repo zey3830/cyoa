@@ -6,4 +6,4 @@ Do you want to [wake up to go to school?](choice1/wakeup.md)
 
 Or
 
-Do you wanna [sleep?](choice1/snooze1.md)
+Do you wanna [sleep?](choice2/snooze1.md)
