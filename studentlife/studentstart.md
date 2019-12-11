@@ -1,0 +1,9 @@
+## You chose the student path!  
+
+You hear the alarm clock ring. You look at the time, 7:00 am.  
+
+Do you want to [wake up?](choice1/wakeup.md)
+
+Or
+
+Do you wanna [sleep?](choice1/snooze1.md)
