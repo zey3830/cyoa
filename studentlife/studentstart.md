@@ -1,4 +1,4 @@
-## You chose the student path!  
+## You choose the student path!  
 
 You hear the alarm clock ring. You look at the time, 7:00 am.  
 

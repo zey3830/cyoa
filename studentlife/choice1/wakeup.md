@@ -1,4 +1,4 @@
-## You choose to wakeup
+## You choose to wake up
 
 As you struggle to get up, you shivered from the breeze coming from the open window.
 
