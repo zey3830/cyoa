@@ -5,4 +5,8 @@ Now, what do you do?
 
 Do you:
 
-Play
+[Play video games on your computer](games.md)
+
+or
+
+[Go outside and drive around to see if there is anything new](outside.md)
