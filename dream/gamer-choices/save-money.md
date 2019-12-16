@@ -4,7 +4,7 @@ Look, saving money is a good thing. It helps you keep track of how much you are 
 
 You sit down back at home and continue wait for the next 3 months in excitement for the robber to be taken down...
 
-![triggered](../dream-images/triggered.png)
+![triggered](../dream-images/triggered.jpg)
 
 [Image Credit](https://www.pinterest.com/pin/367958232034691230/)
 
