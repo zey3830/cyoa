@@ -4,4 +4,4 @@ Good job. A job well done. You managed to step on that gas pedal with all your m
 
 ![chikaquestion](../dream-images/chika.png)
 
-[You want to try that again?](../beginning.md)
+[You want to try that again?](../../beginning.md)
