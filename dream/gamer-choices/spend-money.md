@@ -5,5 +5,8 @@ Bro, do you even know what restraint is? You just spent all your money! The stuf
 
 #### You are now homeless...
 
+![chikaquestion](../dream-images/chika.png)
+
+[Image Credit](https://imgur.com/t/fujiwara_chika/h950F1x)
 
 [Start over maybe?](../beginning.md)
