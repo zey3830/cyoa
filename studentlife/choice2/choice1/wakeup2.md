@@ -2,6 +2,9 @@
 
 As you struggle to get up, you shivered from the breeze coming from the open window.
 
+![breeze](../image/breeze.jpeg)  
+Credit: https://www.pinterest.com/pin/50243352071280373/
+
 Do you wanna get prepare and [go to school?](choice2/school.md)
 
 Or
