@@ -6,4 +6,4 @@ Nicely done. You avoided the urge to start driving around the neighborhood like 
 
 [Image Credit](http://chcse.blogspot.com/2015/04/hataraku-maou-sama-devil-is-part-timer.html)
 
-[Start over?](../beginning.md)
+[Start over?](../../beginning.md)
